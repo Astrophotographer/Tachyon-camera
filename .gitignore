@@ -1,0 +1,21 @@
+# 비밀값
+camera/config.env
+nas/.env
+
+# 데이터
+camera/data/
+*.db
+
+# 모델 가중치
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 임시 파일
+camera/tempCodeRunnerFile.py
+.DS_Store
